@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithlesh24364" alt="mithlesh24364" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mks_mithlesh" target="blank"><img src="https://img.shields.io/twitter/follow/@mks_mithlesh?logo=twitter&style=for-the-badge" alt="@mks_mithlesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mks_mithlesh" target="blank"><img src="https://img.shields.io/twitter/follow/@mks_mithlesh?logo=twitter&style=for-the-badge" alt="mks_mithlesh" /></a> </p>
 
 - 🔭 I’m currently working on [Student Management System](https://github.com/MITHLESH24364/School_Management_final.git)
 
