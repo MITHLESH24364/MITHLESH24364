@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mithlesh Kumar Singh</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
 
-<img src="c539ba_d78cf65a42e0416991c66f088bdef192~mv2_d_3200_1600_s_2.gif" alt="gif" width="400" align="right">
+<img src="gif.gif" alt="gif" width="400" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithlesh24364&label=Profile%20views&color=0e75b6&style=flat" alt="mithlesh24364" /> </p>
