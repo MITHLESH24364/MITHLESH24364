@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mithlesh Kumar Singh</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
 
-<img align="right" alt="cding" width="400" src="![image](https://github.com/user-attachments/assets/47386970-8e80-4676-8b7e-eee18e9e951a)">
+<img align="right" alt="cding" width="400" src="https://static.wixstatic.com/media/c539ba_d78cf65a42e0416991c66f088bdef192~mv2_d_3200_1600_s_2.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithlesh24364&label=Profile%20views&color=0e75b6&style=flat" alt="mithlesh24364" /> </p>
